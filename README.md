@@ -31,7 +31,7 @@ coliseo-romano/
 Instalación
 
 Clona este repositorio:
-git clone https://github.com/tu-usuario/coliseo-romano.git
+git clone https://github.com/EonSoulCout/Blog-web
 
 Despliega los archivos en tu servidor JSP preferido (Tomcat, GlassFish, etc.)
 Accede al sitio a través de tu navegador web
